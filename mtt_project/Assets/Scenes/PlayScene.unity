@@ -1864,14 +1864,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'You play as Earth.
-
-    Controls:
+  m_Text: 'Controls:
 
     Space - shot
 
-    Left Arrow, Right
-    Arrow - rotate gun'
+    Left Arrow, Right Arrow - rotate gun'
 --- !u!222 &1995695647
 CanvasRenderer:
   m_ObjectHideFlags: 0
